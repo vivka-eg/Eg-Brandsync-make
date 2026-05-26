@@ -1,0 +1,20 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Env files — never commit
+.env
+.env.local
+.env.*.local
+
+# Logs / OS
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Test scratchpads
+.tmp/
+coverage/
